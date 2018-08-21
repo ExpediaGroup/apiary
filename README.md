@@ -6,9 +6,11 @@ Apiary provides a configurable, highly available, deployable module consisting o
 * Read only [Hive](https://hive.apache.org) metastore service
 * [Waggle Dance](https://github.com/HotelsDotCom/waggle-dance) federated Hive metastore service
 * Related infrastructure including load balancers
+* Various extensions and plugins for adding additional functionality to the Hive metastore
 
 ## Components
 Apiary consists of the following components which are managed in separate git repositories:
+* [Apiary Extensions](https://github.com/ExpediaInc/apiary-extensions)
 * [Apiary Metastore](https://github.com/ExpediaInc/apiary-metastore)
 * [Apiary Metastore Docker](https://github.com/ExpediaInc/apiary-metastore-docker)
 * [Apiary Waggle Dance](https://github.com/ExpediaInc/apiary-waggledance)
