@@ -1,3 +1,4 @@
+![Apiary.](media/apiary.png "Apiary Data lake.")
 
 # Overview
 
