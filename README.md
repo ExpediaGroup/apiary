@@ -2,7 +2,7 @@
 
 # Overview
 
-Apiary provides a configurable, highly available, deployable module consisting of:
+Apiary provides modules which can be combined to create a federated cloud data lake. These include:
 * Read/write [Hive](https://hive.apache.org) metastore service
 * Read only [Hive](https://hive.apache.org) metastore service
 * [Waggle Dance](https://github.com/HotelsDotCom/waggle-dance) federated Hive metastore service
@@ -11,8 +11,8 @@ Apiary provides a configurable, highly available, deployable module consisting o
 
 ## Components
 Apiary consists of the following components which are managed in separate git repositories:
+* [Apiary Data Lake](https://github.com/ExpediaInc/apiary-data-lake)
 * [Apiary Extensions](https://github.com/ExpediaInc/apiary-extensions)
-* [Apiary Metastore](https://github.com/ExpediaInc/apiary-metastore)
 * [Apiary Metastore Docker](https://github.com/ExpediaInc/apiary-metastore-docker)
 * [Apiary Waggle Dance](https://github.com/ExpediaInc/apiary-waggledance)
 * [Apiary Waggle Dance Docker](https://github.com/ExpediaInc/apiary-waggledance-docker)
