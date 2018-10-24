@@ -14,13 +14,13 @@ Apiary consists of the following components which are managed in separate git re
 * [Apiary Data Lake](https://github.com/ExpediaInc/apiary-data-lake)
 * [Apiary Extensions](https://github.com/ExpediaInc/apiary-extensions)
 * [Apiary Metastore Docker](https://github.com/ExpediaInc/apiary-metastore-docker)
-* [Apiary Waggle Dance](https://github.com/ExpediaInc/apiary-waggledance)
+* [Apiary Federation](https://github.com/ExpediaInc/apiary-federation)
 * [Apiary Waggle Dance Docker](https://github.com/ExpediaInc/apiary-waggledance-docker)
 
 # Contact
 
 ## Mailing List
-If you would like to ask any questions about or discuss Apiary please join our mailing list at 
+If you would like to ask any questions about or discuss Apiary please join our mailing list at
 
   [https://groups.google.com/forum/#!forum/apiary-user](https://groups.google.com/forum/#!forum/apiary-user)
 
