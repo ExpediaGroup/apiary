@@ -17,6 +17,7 @@ Apiary consists of the following components which are managed in separate git re
 * [Apiary Federation](https://github.com/ExpediaInc/apiary-federation)
 * [Apiary Waggle Dance Docker](https://github.com/ExpediaInc/apiary-waggledance-docker)
 * [Apiary Authorization](https://github.com/ExpediaInc/apiary-authorization)
+* [Apiary Ranger Docker](https://github.com/ExpediaInc/apiary-ranger-docker)
 
 # Contact
 
