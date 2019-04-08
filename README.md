@@ -11,14 +11,13 @@ Apiary provides modules which can be combined to create a federated cloud data l
 
 ## Components
 Apiary consists of the following components which are managed in separate git repositories:
-
+* [Apiary Authorization](https://github.com/ExpediaGroup/apiary-authorization)
 * [Apiary Data Lake](https://github.com/ExpediaGroup/apiary-data-lake)
 * [Apiary Extensions](https://github.com/ExpediaGroup/apiary-extensions)
-* [Apiary Metastore Docker](https://github.com/ExpediaGroup/apiary-metastore-docker)
 * [Apiary Federation](https://github.com/ExpediaGroup/apiary-federation)
-* [Apiary Waggle Dance Docker](https://github.com/ExpediaGroup/apiary-waggledance-docker)
-* [Apiary Authorization](https://github.com/ExpediaGroup/apiary-authorization)
+* [Apiary Metastore Docker](https://github.com/ExpediaGroup/apiary-metastore-docker)
 * [Apiary Ranger Docker](https://github.com/ExpediaGroup/apiary-ranger-docker)
+* [Apiary Waggle Dance Docker](https://github.com/ExpediaGroup/apiary-waggledance-docker)
 
 # Contact
 
