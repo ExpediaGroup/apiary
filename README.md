@@ -11,11 +11,11 @@ Apiary provides modules which can be combined to create a federated cloud data l
 
 ## Components
 Apiary consists of the following components which are managed in separate git repositories:
-* [Apiary Data Lake](https://github.com/ExpediaInc/apiary-data-lake)
-* [Apiary Extensions](https://github.com/ExpediaInc/apiary-extensions)
-* [Apiary Metastore Docker](https://github.com/ExpediaInc/apiary-metastore-docker)
-* [Apiary Federation](https://github.com/ExpediaInc/apiary-federation)
-* [Apiary Waggle Dance Docker](https://github.com/ExpediaInc/apiary-waggledance-docker)
+* [Apiary Data Lake](https://github.com/ExpediaGroup/apiary-data-lake)
+* [Apiary Extensions](https://github.com/ExpediaGroup/apiary-extensions)
+* [Apiary Metastore Docker](https://github.com/ExpediaGroup/apiary-metastore-docker)
+* [Apiary Federation](https://github.com/ExpediaGroup/apiary-federation)
+* [Apiary Waggle Dance Docker](https://github.com/ExpediaGroup/apiary-waggledance-docker)
 
 # Contact
 
@@ -27,4 +27,4 @@ If you would like to ask any questions about or discuss Apiary please join our m
 # Legal
 This project is available under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-Copyright 2018 Expedia Inc.
+Copyright 2018-2019 Expedia, Inc.
