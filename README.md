@@ -15,12 +15,13 @@ Apiary consists of the following components which are managed in separate git re
 * [Apiary Authorization](https://github.com/ExpediaGroup/apiary-authorization)
 * [Apiary Data Lake](https://github.com/ExpediaGroup/apiary-data-lake)
 * [Apiary Replication](https://github.com/ExpediaGroup/apiary-replication)
-* [Apiary Extensions](https://github.com/ExpediaGroup/apiary-extensions)
 * [Apiary Federation](https://github.com/ExpediaGroup/apiary-federation)
 * [Apiary Metastore Docker](https://github.com/ExpediaGroup/apiary-metastore-docker)
 * [Apiary Ranger Docker](https://github.com/ExpediaGroup/apiary-ranger-docker)
 * [Apiary Waggle Dance Docker](https://github.com/ExpediaGroup/apiary-waggledance-docker)
 * [Apiary Shunting Yard Docker](https://github.com/ExpediaGroup/apiary-shuntingyard-docker)
+* [Apiary Extensions](https://github.com/ExpediaGroup/apiary-extensions)
+* [Apiary Extensions Terraform](https://github.com/ExpediaGroup/apiary-extensions-terraform)
 
 # Contact
 
