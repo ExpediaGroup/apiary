@@ -6,7 +6,6 @@ Apiary provides modules which can be combined to create a federated cloud data l
 * Read/write [Hive](https://hive.apache.org) metastore service
 * Read only [Hive](https://hive.apache.org) metastore service
 * [Waggle Dance](https://github.com/HotelsDotCom/waggle-dance) federated Hive metastore service
-* [Shunting Yard](https://github.com/ExpediaGroup/shunting-yard) event-based data replication service
 * [Beekeeper](https://github.com/ExpediaGroup/beekeeper) event-based data lifecycle service
 * [Drone Fly](https://github.com/ExpediaGroup/drone-fly) decouples your Hive metastore (HMS) MetaStoreEventListener implementations from HMS.
 * Related infrastructure including load balancers
@@ -23,8 +22,6 @@ Apiary consists of the following components which are managed in separate git re
 * [Apiary Lifecycle](https://github.com/ExpediaGroup/apiary-lifecycle)
 * [Apiary Metastore Docker](https://github.com/ExpediaGroup/apiary-metastore-docker)
 * [Apiary Ranger Docker](https://github.com/ExpediaGroup/apiary-ranger-docker)
-* [Apiary Replication](https://github.com/ExpediaGroup/apiary-replication)
-* [Apiary Shunting Yard Docker](https://github.com/ExpediaGroup/apiary-shuntingyard-docker)
 * [Apiary Waggle Dance Docker](https://github.com/ExpediaGroup/apiary-waggledance-docker)
 
 # Contact
